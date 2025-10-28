@@ -34,8 +34,8 @@
     "typescript": "^5"
   },
   "engines": {
-    "node": ">=18.0.0 <=22.x.x",
-    "npm": ">=6.0.0"
+    "node": "20.x",
+    "npm": ">=9.0.0"
   },
   "strapi": {
     "uuid": "ef7b2170-37bc-4059-acc3-35a0d9a3777c",
